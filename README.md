@@ -28,7 +28,7 @@ This project focuses on optimizing communication protocols for IoT devices in he
 ### System Architecture
 The system integrates IoT devices with communication protocols to monitor and analyze gait patterns. Sensor data is collected in real-time, transmitted using the selected protocol, and stored for analysis. The architecture allows modular testing of different protocols to determine the most efficient method for real-time data transfer.
 
-![System Architecture Diagram] <img width="848" alt="Screenshot 2024-08-23 at 7 28 19 PM" src="https://github.com/user-attachments/assets/de1bfd5d-895a-45cc-b8d9-fcaf97b18ef0">
+System Architecture Diagram <img width="848" alt="Screenshot 2024-08-23 at 7 28 19 PM" src="https://github.com/user-attachments/assets/de1bfd5d-895a-45cc-b8d9-fcaf97b18ef0">
 
 
 ### Workflow
@@ -46,7 +46,7 @@ The system integrates IoT devices with communication protocols to monitor and an
 - Use Python and MATLAB to visualize collected data.
 - Analyze results to compare the efficiency of different protocols.
 
-![Data Visualization Example]<img width="825" alt="Screenshot 2024-08-23 at 7 29 07 PM" src="https://github.com/user-attachments/assets/febf9060-a0ab-4c43-8e0c-f563526ef30c">
+Data Visualization Example<img width="825" alt="Screenshot 2024-08-23 at 7 29 07 PM" src="https://github.com/user-attachments/assets/febf9060-a0ab-4c43-8e0c-f563526ef30c">
 
 
 ## Code Structure
